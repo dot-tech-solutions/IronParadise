@@ -2,10 +2,6 @@
 
 A modern, responsive fitness website designed for **Iron Paradise**, showcasing gym services and creating an engaging digital experience for fitness enthusiasts.
 
- 🌐 Live Demo
-
-**Website:** https://iron-paradise-omega.vercel.app/
-
  📌 About the Project
 
 Iron Paradise is a fitness website concept built to present a gym's brand, services, and fitness offerings through a bold and user-friendly interface. The project focuses on responsive design, intuitive navigation, and a visually engaging experience across desktop, tablet, and mobile devices.
